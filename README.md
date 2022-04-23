@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gunner963
 - 👀 I’m interested in full stack web development, cloud technologies... primarily a frontend dev currently
-- 🌱 I’m currently learning Java Spring, AWS, Testing Javascript
+- 🌱 I’m currently learning Java Spring, AWS, React TDD
 - 💞️ I’m looking to collaborate on any full stack project with react front end 
 - 📫 How to reach me shoot me an email on anujoza18@gmail.com
 
